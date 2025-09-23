@@ -1023,7 +1023,7 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+ ![Alt text](<os/exp1/image/Screenshot at 2025-09-23 19-14-11.png>)
  
 cat > nc.awk
 ```bash
@@ -1038,6 +1038,7 @@ print "total characters",chrcnt
 print "Number of Lines are",NR
 print "No of Words count:",wordcount
 }
+![Alt text](<os/exp1/image/Screenshot at 2025-09-23 19-15-05.png>)
  ```
 cat>data.dat
 ```bash
@@ -1051,10 +1052,11 @@ bcdfghj
 obcdfghj
 bcdfghj
 ubcdfghj
+![Alt text](<os/exp1/image/Screenshot at 2025-09-23 19-17-14.png>)
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+![Alt text](<os/exp1/image/Screenshot at 2025-09-23 19-17-50.png>) 
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1081,7 +1083,7 @@ else
 fi
 ```
 ## OUTPUT 
-
+![Alt text](<os/exp1/image/Screenshot at 2025-09-23 19-18-41.png>)
 
 # RESULT:
 The Commands are executed successfully.
