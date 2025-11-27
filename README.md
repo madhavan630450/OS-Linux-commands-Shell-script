@@ -1083,7 +1083,7 @@ else
 fi
 ```
 ## OUTPUT 
-![Alt text](<os/exp1/image/Screenshot at 2025-09-23 19-18-41.png>)
+<img width="397" height="127" alt="image" src="https://github.com/user-attachments/assets/4b8bb1b5-0403-462f-842b-7bf6a75e4ce8" />
 
 # RESULT:
 The Commands are executed successfully.
